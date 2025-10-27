@@ -138,6 +138,6 @@ project/
 
 **Muhammad Mohtad Younus**  
 AI Engineer & Researcher | FAST NUCES | PAF-IAST  
-📧 [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
+📧 [GitHub](https://github.com/Mohtadrao) | [LinkedIn](https://linkedin.com/in/mohtad)
 
 ---
